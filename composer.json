@@ -1,0 +1,16 @@
+{
+    "name": "fragov/identity-api-wrapper",
+    "type": "library",
+    "description": "Wrapper for Identity API",
+    "keywords": ["php", "laravel", "api", "identity", "wapper"],
+    "homepage": "https://byte5.de",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maksym Shevchenko",
+            "email": "mshevchenko@byte5.de",
+            "homepage": "https://byte5.de",
+            "role": "Developer"
+        }
+    ]
+}
